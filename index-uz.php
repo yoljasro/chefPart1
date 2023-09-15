@@ -16,7 +16,6 @@
 
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  Powered by <a href
 
   <title>O‘zbekiston oshpazlar uyushmasi</title>
 

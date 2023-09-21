@@ -249,7 +249,7 @@ st. Oltin Tepa, building 354
 
         <?php foreach(array_slice($array_data, ($_GET['page'])*10, 10,true) as $item){
 
-          
+            
 
           ?>
 

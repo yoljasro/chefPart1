@@ -272,7 +272,7 @@ st. Oltin Tepa, building 354
 
   
 
-  <img style="padding-top:10px;padding-bottom:10px; width:100% " src="assets/newsmainimg/source/<?php if (array_key_exists(intval($_GET['id']), $array_data)) {echo $array_data[intval($_GET['id'])]['rasm'];}?>" alt="">
+<img style="padding-top:10px;padding-bottom:10px; height:800px; width:100% " src="assets/newsmainimg/source/<?php if (array_key_exists(intval($_GET['id']), $array_data)) {echo $array_data[intval($_GET['id'])]['rasm'];}?>" alt="">
 
    
 

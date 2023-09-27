@@ -145,7 +145,7 @@
     }
 	img {
 	 width:100%;
-	height: inherit;
+	height: 400px;
 }
 p{
 font-size: 9px !important;
@@ -268,7 +268,7 @@ font-size:9px !important;
 
   
 
-  <img style="padding-top:10px;padding-bottom:10px; width:100% " src="assets/newsmainimg/source/<?php if (array_key_exists(intval($_GET['id']), $array_data)) {echo $array_data[intval($_GET['id'])]['rasm'];}?>" alt="">
+  <img style="padding-top:10px;padding-bottom:10px; height:800px; width:100% " src="assets/newsmainimg/source/<?php if (array_key_exists(intval($_GET['id']), $array_data)) {echo $array_data[intval($_GET['id'])]['rasm'];}?>" alt="">
 
    
 
@@ -300,7 +300,7 @@ font-size:9px !important;
 
       
 
-  <img style=" width:70%;margin-top:10px " src="assets/newsmainimg/source/<?php echo $item['rasm']?>" alt="">
+  <img style=" width:70%;margin-top:10px; height:200px" src="assets/newsmainimg/source/<?php echo $item['rasm']?>" alt="">
 
 
 

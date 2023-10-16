@@ -2148,7 +2148,7 @@
 
         <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/delicious-free-restaurant-bootstrap-theme/ -->
 
-        Powered by <a href="https://t.me/jasurbek_s7">JasurBek_programmer</a>
+        <!-- Powered by <a href="https://t.me/jasurbek_s7">JasurBek_programmer</a> -->
 
       </div>
 
